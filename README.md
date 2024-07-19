@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waqasmxyz and I am a Front End Developer.
 - 👀 I’m personally interested in creating productivity, management and learning applications, both web and desktop.
-- 🌱 I’m currently learning Javascript and Python.
+- 🌱 I’m currently practicing Javascript and Python.
 - 📫 hello@waqasm.xyz
 - ⚡ Fun fact: After a decade of creating 3D art for games and launching two titles on console and PC, I decided to pivot my career. I’m now thoroughly enjoying coding front-end applications and exploring the capabilities of Python.
 
